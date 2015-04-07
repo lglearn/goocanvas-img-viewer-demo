@@ -23,7 +23,7 @@ This program is not finished and has a number of known bugs.
 They will not get corrected as I've started a completely new version using GTK3.
 
 I'm making it available because it can help understand how to use GooCanvas.
-The big problem with tutorials is that they only explain the basics, and an moderately complex
+The big problem with tutorials is that they only explain the basics, and any moderately complex
 program goes far beyond their scope. On the other hand, real programs are usually so big and complex
 that it's extremely difficult to extract the interesting part without a major learning curve.
 
