@@ -6,9 +6,18 @@ This program is an unfinished prototype of an image viewer (with thumbnails).
 
 It display images from a directory as Thumbnails, displays the full image when its thumbnail is clicked.
 
-USAGE: ./goocanvas  [<directory name>]
+USAGE: ./goocanvas  [ directory name ]
 
 When no directory is provided, the images from the current directory are displayed.
+
+Screenshots:
+![Thumbnails 4 cols](https://github.com/lglearn/goocanvas-img-viewer-demo/blob/master/screenshots/thumbnails_4_cols.png "Thumbnails 4 cols screenshot")
+
+![Thumbnails 6 cols](https://github.com/lglearn/goocanvas-img-viewer-demo/blob/master/screenshots/thumbnails_6_cols.png "Thumbnails 6 cols screenshot")
+
+![Image full](https://github.com/lglearn/goocanvas-img-viewer-demo/blob/master/screenshots/image_full.png "Image full screenshot")
+
+
 
 This program is not finished and has a number of known bugs.
 They will not get corrected as I've started a completely new version using GTK3.
